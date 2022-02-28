@@ -4,10 +4,12 @@ Regular Expressions in Notepad++.
 For quick find/replace End Line Characters
 
 1. Make sure to Show End Line Characters:
-   Go to View > Show Symbol > Show End of Line / Show All Characters
+   Go to: View > Show Symbol > Show End of Line / Show All Characters
 
-2. Set Search ode to Extended (\n, \r, \t, \0, \x...)
+2. Click on: Search > Replace (or Ctrl + H)
 
-3. Replace End Line Characters with desired string.
+4. Set Search Mode to Extended (\n, \r, \t, \0, \x...)
 
-4. Replace End Line Characters with "" to remove.
+5. Replace End Line Characters with desired string.
+
+6. Replace End Line Characters with "" to remove.
